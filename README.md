@@ -2,8 +2,17 @@
 
 Status: em desenvolvimento
 
-## Sobre o projeto
+## Sobre
 
-+ O projeto consiste em uma aplicação movel e um site para um loja de jogos eletronicos
++ O projeto consiste em uma aplicação movel para um loja de jogos eletronicos
+
+## Objetivos
+
++ Aprender mais sobre o flutter
++ Aprender mais sobre Desing de aplicativos
++ Aprender mais sobre regras de negocios
++ Treinar o desenvolvimento de App
 
 ## Tecnologias
+
++ Flutter
